@@ -1,6 +1,7 @@
 {
-  "akun" : {
-  "username" : "andi",
-  "password" : "123"
-  }
+  "akun" : [
+  {"username" : "andi", "password" : "123"},
+  {"username" : "budi", "password" : "456"},
+  {"username" : "cahyo", "password" : "789"}
+  ]
 }
